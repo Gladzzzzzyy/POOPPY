@@ -1,0 +1,31 @@
+/* General styles for body */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #add8e6; /* Light blue */
+  overflow: hidden;
+}
+
+/* Disable text selection and cursor */
+body, .emoji {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer */
+  user-select: none;         /* Standard syntax */
+  cursor: default;           /* Sets cursor to default arrow instead of text */
+}
+
+/* Style for each emoji */
+.emoji {
+  font-size: 2rem;
+  position: absolute;
+  animation: bounce 0.6s ease;
+}
+
+/* Bounce animation for pop effect */
+@keyframes bounce {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-30px); }
+  100% { transform: translateY(0); }
+}
