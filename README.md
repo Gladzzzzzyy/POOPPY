@@ -78,6 +78,7 @@ The problem is clear: there’s simply too much emphasis on making every second 
 ##### Diagrams
 
 ![Workflow](#) *Pooppyy Workflow* - A diagram illustrating how emojis are triggered by touches and key presses, with animation and sound.
+https://github.com/Gladzzzzzyy/POOPPY/blob/main/REFERENCE/WhatsApp%20Image%202024-11-02%20at%209.14.58%20AM.jpeg
 
 ---
 
