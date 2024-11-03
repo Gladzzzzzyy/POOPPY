@@ -3,7 +3,7 @@
 
 ### Basic Details
 
-- *Team Name:* Three Pookies
+- *Team Name:* Tech trekkers 
 
 #### Team Members
 
